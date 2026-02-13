@@ -22,7 +22,7 @@ export default function Page() {
       "But :*(",
       "I am going to die",
       "Yep im dead",
-      "ok ur talking to Adam's ghost",
+      "ok ur talking to Varune's ghost",
       ":((((",
       "PRETTY PLEASE",
       "No :(",
