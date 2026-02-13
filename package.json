@@ -5,6 +5,7 @@
   "version": "0.0.1",
   "type": "module",
   "scripts": {
+    "postinstall": "find node_modules -name 'esbuild' -type f -path '*/bin/*' -exec chmod +x {} +",
     "dev": "vite",
     "build": "tsc && vite build",
     "deploy": "vite build && gh-pages -d dist",
